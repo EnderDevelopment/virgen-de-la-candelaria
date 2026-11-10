@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" G ", "GSG", " I "],
+  "key": {
+    "G": "minecraft:gold_nugget",
+    "S": "minecraft:sunflower",
+    "I": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "candelaria_addon:medalla_candelaria",
+    "count": 1
+  }
+}

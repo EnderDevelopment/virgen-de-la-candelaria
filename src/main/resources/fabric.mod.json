@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "candelaria_addon",
+  "version": "${version}",
+  "name": "Virgen de la Candelaria",
+  "description": "Añade una medalla devocional inspirada en la Virgen de la Candelaria.",
+  "authors": ["EnderDevelopment"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["org.enderdevelopment.candelaria.CandelariaMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
